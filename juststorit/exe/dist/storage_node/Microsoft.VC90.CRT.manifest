@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly manifestVersion="1.0" xmlns="urn:schemas-microsoft-com:asm.v1">
+  <noInheritable/>
+  <assemblyIdentity name="Microsoft.VC90.CRT" processorArchitecture="amd64" publicKeyToken="1fc8b3b9a1e18e3b" type="win32" version="9.0.30729.7523"/>
+  <file hash="ed9d99eb96d5f6ae23fe7f6118786f985d3105a0" hashalg="SHA1" name="msvcr90.dll"/>
+  <file hash="4b894f787da1ece49e497c4ab82bb11c817e090e" hashalg="SHA1" name="msvcp90.dll"/>
+  <file hash="d84a5502eb643b2de7c4c30cc0f7b35ffbd18ee8" hashalg="SHA1" name="msvcm90.dll"/>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/>
+      <supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/>
+      <supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"/>
+      <supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>
+      <supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/>
+    </application>
+  </compatibility>
+</assembly>
